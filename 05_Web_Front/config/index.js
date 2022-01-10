@@ -12,11 +12,11 @@ module.exports = {
         assetsPublicPath: '/',
         proxyTable: {
             // '/uc':{
-            //     target: 'http://172.24.102.98:6001',
+            //     target: 'http://exchange.zerotohero-withtrading.net',
             //     secure: false
             // },
             // '/market':{
-            //     target: 'http://172.24.102.98:6004',
+            //     target: 'http://exchange.zerotohero-withtrading.net',
             //     secure: false
             // }
         },
